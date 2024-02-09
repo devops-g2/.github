@@ -1,3 +1,8 @@
+## Project overview
+This project encompasses a forum like website along with an SQLite backend and API.
+The website is written in React (jsx) and bundled with Vite. 
+
+Both the website and the API are dockerized and deployed to Azure ACR in a kubernetes cluster.
 
 ## Github (gruppmedlemmar/githubalias):
 
